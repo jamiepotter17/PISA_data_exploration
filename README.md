@@ -1,5 +1,7 @@
 # PISA 2012 Data Exploration
 
+To view the slide presentation, go to [https://jamiepotter17.github.io/PISA_data_exploration/](https://jamiepotter17.github.io/PISA_data_exploration/)
+
 ## Dataset
 
 The data are from the 2012 round of the Programme for International Student
